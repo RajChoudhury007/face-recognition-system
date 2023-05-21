@@ -1,1 +1,2 @@
 # face-recognition-system
+DOWNLODE REQUIRED PIP IN THE PYTHON PROGRAM
